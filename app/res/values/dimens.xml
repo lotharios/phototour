@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- SPLASH BUTTON DIMEN -->
+<dimen name="splash_button_width">200dp</dimen>
+<dimen name="splash_button_height">50dp</dimen>
+
+</resources>

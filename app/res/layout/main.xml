@@ -4,9 +4,37 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-<TextView  
-    android:layout_width="fill_parent" 
-    android:layout_height="wrap_content" 
-    android:text="@string/hello"
+    
+    <Button
+        android:id="@+id/randomSearchButton"
+        android:layout_width="@dimen/splash_button_width"
+        android:layout_height="@dimen/splash_button_height"
+        android:gravity="center_horizontal"
+        android:text="@string/randomSearchLabel"
     />
+
+    <Button
+        android:id="@+id/searchByUserButton"
+        android:layout_width="@dimen/splash_button_width"
+        android:layout_height="@dimen/splash_button_height"
+        android:gravity="center_horizontal"
+        android:text="@string/searchByUserLabel"
+    />
+    
+    <Button
+        android:id="@+id/inviteContactButton"
+        android:layout_width="@dimen/splash_button_width"
+        android:layout_height="@dimen/splash_button_height"
+        android:gravity="center_horizontal"
+        android:text="@string/inviteContactLabel"
+    />
+
+    <Button
+        android:id="@+id/settingButton"
+        android:layout_width="@dimen/splash_button_width"
+        android:layout_height="@dimen/splash_button_height"
+        android:gravity="center_horizontal"
+        android:text="@string/settingLabel"
+    />
+    
 </LinearLayout>

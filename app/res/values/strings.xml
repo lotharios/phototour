@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, SplashActivity!</string>
     <string name="app_name">PhotoTour</string>
+    
+    <!-- DEBUG TAG -->
+    <string name="debugTag">PhotoTourDebug</string>
+    
+    <!-- FLICKR API -->
+    <string name="apiKey">XXXX</string>
+    <string name="apiBaseUri">http://api.flickr.com/services/rest/?method</string>
+    
+    
+    <!-- SPLASH BUTTON VALUES -->
+    <string name="randomSearchLabel">View Random Pictures</string>
+    <string name="searchByUserLabel">Search By User</string>
+    <string name="inviteContactLabel">Invite Friend</string>
+    <string name="settingLabel">Settings</string>
+    
 </resources>
