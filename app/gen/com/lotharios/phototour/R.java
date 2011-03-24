@@ -20,13 +20,17 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
+        public static final int TextView01=0x7f060004;
         public static final int inviteContactButton=0x7f060002;
+        public static final int moreFlickr=0x7f060006;
         public static final int randomSearchButton=0x7f060000;
+        public static final int rgallery=0x7f060005;
         public static final int searchByUserButton=0x7f060001;
         public static final int settingButton=0x7f060003;
     }
     public static final class layout {
         public static final int main=0x7f030000;
+        public static final int random_gallery=0x7f030001;
     }
     public static final class string {
         public static final int apiBaseUri=0x7f050003;
@@ -38,6 +42,9 @@ public final class R {
          */
         public static final int debugTag=0x7f050001;
         public static final int inviteContactLabel=0x7f050006;
+        /**  MISC BUTTON VALUES 
+         */
+        public static final int morePics=0x7f050008;
         /**  SPLASH BUTTON VALUES 
          */
         public static final int randomSearchLabel=0x7f050004;

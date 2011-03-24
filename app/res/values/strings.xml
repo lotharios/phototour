@@ -7,7 +7,7 @@
     
     <!-- FLICKR API -->
     <string name="apiKey">XXXX</string>
-    <string name="apiBaseUri">http://api.flickr.com/services/rest/?method</string>
+    <string name="apiBaseUri">http://api.flickr.com/services/rest/?method=</string>
     
     
     <!-- SPLASH BUTTON VALUES -->
@@ -15,5 +15,8 @@
     <string name="searchByUserLabel">Search By User</string>
     <string name="inviteContactLabel">Invite Friend</string>
     <string name="settingLabel">Settings</string>
+    
+    <!-- MISC BUTTON VALUES -->
+    <string name="morePics">View More Pictures</string>
     
 </resources>
